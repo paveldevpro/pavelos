@@ -1,0 +1,1 @@
+uefi-run build/BOOTX64.efi

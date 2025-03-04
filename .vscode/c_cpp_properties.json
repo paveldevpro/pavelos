@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        /*{
+            "name": "Win32",
+            "intelliSenseMode": "linux-gcc-x64",
+            "cStandard": "c17",
+            "includePath": ["F:\\Libs\\edk2\\edk2\\MdePkg\\Include"]
+        },*/
+        {
+            "name": "Linux",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "includePath": ["/media/pavelito/DATA/Libs/edk2/edk2/MdePkg/Include"]
+        }
+    ],
+    "version": 4
+}

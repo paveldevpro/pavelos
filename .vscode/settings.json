@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "uefi.h": "c",
+        "uefibasetype.h": "c",
+        "uefilib.h": "c",
+        "base.h": "c",
+        "efilibs.h": "c",
+        "uefibootservicestablelib.h": "c",
+        "debuglib.h": "c",
+        "fileinfo.h": "c",
+        "devicepathlib.h": "c",
+        "memoryallocationlib.h": "c",
+        "loadedimage.h": "c",
+        "bmp.h": "c",
+        "efierrs.h": "c"
+    }
+}

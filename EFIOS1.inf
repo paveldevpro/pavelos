@@ -1,0 +1,29 @@
+[Defines]
+
+[Defines]
+  INF_VERSION = 1.25
+  BASE_NAME = EFIOS1
+  FILE_GUID = 7f34dda7-4098-4ee4-9802-d65a4ec39529 # Get a GUID from guidgen.com
+  MODULE_TYPE = UEFI_APPLICATION
+  VERSION_STRING = 1.0
+  ENTRY_POINT = UefiEntry
+
+[Sources]
+  src/main.c
+
+[Packages]
+  MdePkg/MdePkg.dec
+
+[LibraryClasses]
+  UefiApplicationEntryPoint
+  UefiLib
+
+[Guids]
+ 
+[Ppis]
+ 
+[Protocols]
+ 
+[FeaturePcd]
+ 
+[Pcd]
